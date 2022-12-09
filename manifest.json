@@ -1,0 +1,17 @@
+{
+    "name": "NogalesBeauty",
+    "short_name": "NogalesBeauty",
+    "theme_color": "#D73FAB",
+    "background_color": "#D73FAB",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./Icono.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
